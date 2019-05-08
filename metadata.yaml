@@ -1,5 +1,8 @@
 _repo: The-Railway-Man-and-his-Children_59424
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59424-h/images/cover.jpg
 creator:
   author:
     agent_name: Oliphant, Mrs. (Margaret)
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/963
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Oliphant_Oliphant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59424#The-Railway-Man-and-his-Children
 gutenberg_issued: '2019-05-03'
 gutenberg_type: Text
 identifiers:
